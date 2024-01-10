@@ -65,13 +65,12 @@ color: #FFF500;
 	align-items: center;
 	justify-content: space-between;
     padding: 20px;
-    width: 100%;
-    max-width: 900%;
     
 
 }
 .hb_img{
-width: 440px;
+width: 50%;
+max-width: 900%;
 margin-left: 121px;
 }
 .hb_title{
@@ -80,10 +79,11 @@ font-size: 64px;
 font-family: Montserrat;
 font-weight: 400;
 word-wrap: break-word;
-max-width: 350px;
 margin: 0px;
 padding-bottom: 30px;
-
+width: 80%;
+max-width: 900%;
+ 
 
 }
 .hb_text{
