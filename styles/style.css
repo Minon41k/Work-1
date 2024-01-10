@@ -180,7 +180,8 @@ margin-left: auto;
 }
 .video_video{
 	border: 40px solid #414141;
-	margin-left: 200px;
+	display: flex;
+    align-items: center;
 	border-radius: 29px;
 	width: 1009.063px;
 height: 561.248px;
