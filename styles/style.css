@@ -65,6 +65,8 @@ color: #FFF500;
 	align-items: center;
 	justify-content: space-between;
     padding: 20px;
+    width: 100%;
+    max-width: 900%;
     
 
 }
@@ -180,10 +182,12 @@ margin-left: auto;
 }
 .video_video{
 	border: 40px solid #414141;
-	display: flex;
-    align-items: center;
+	display: block;
+     margin-left: auto;
+    margin-right: auto;
 	border-radius: 29px;
-	width: 1009.063px;
+	width: 80%;
+    max-width: 900%;
 height: 561.248px;
 
 }
