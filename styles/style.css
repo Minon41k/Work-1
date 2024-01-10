@@ -6,7 +6,7 @@
 	list-style: none;
 }
 .container{
-	min-width:80%; 
+	min-width:100%; 
     min-height: 100%; 
     position: relative;
 }
@@ -66,7 +66,7 @@ color: #FFF500;
 	align-items: center;
 	justify-content: space-between;
     padding: 20px;
-    width: 80%;
+    width: 100%;
     max-width: 900%;
     
 
